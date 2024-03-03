@@ -1,0 +1,3 @@
+> Next Permutaion
+
+..It gives the next highest combination of given Numbers. 
